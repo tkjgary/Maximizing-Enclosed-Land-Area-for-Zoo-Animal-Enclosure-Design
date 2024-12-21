@@ -17,7 +17,7 @@ Below is the table of contents for navigating the repository.
 | [Results and Discussion](README.md#results-and-discussion)| The findings of the project explained               |
 | [Conclusion](README.md#conclusion)                     | Conclusion of the project                              |
 | [Source Code](Code.m)                                  | Program written in Octave                              |
-| [Program Workflow](\Program_Workflow)                  | Flowchart showing the program’s logic                  |
+| [Program Workflow](Program_Workflow/)                  | Flowchart showing the program’s logic                  |
 
 
 ## How to Run
