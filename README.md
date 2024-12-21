@@ -21,6 +21,33 @@ Below is the table of contents for navigating the repository.
 | [Program Workflow](Program_Workflow.png)               | Flowchart showing the program’s logic                  |
 
 
+## How to Run
+
+1. **Install MATLAB or Octave**:
+   - Ensure you have MATLAB installed on your system. If not, you can use GNU Octave, a free alternative compatible with MATLAB scripts.
+
+2. **Download the Code**:
+   - Clone this repository using the command:
+     ```
+     git clone https://github.com/your-repo/Maximizing-Enclosed-Land-Area.git
+     ```
+     Alternatively, download the source files directly as a ZIP and extract them.
+
+3. **Open the Code**:
+   - Launch MATLAB or Octave.
+   - Navigate to the directory containing the downloaded files.
+
+4. **Run the Script**:
+   - Open the main script file (e.g., EnclosureDesign.m).
+   - In the MATLAB or Octave editor, press F5 or click the Run button to execute the script.
+
+5. **View Graphical Results**:
+   - The script will generate multiple plots showing the relationship between the dimensions of the enclosure and the enclosed land area.
+   - Each figure corresponds to a specific analysis (e.g., varying 𝑟, ℎ, or barrier length).
+
+6. **Optional Modifications**:
+   - Modify parameters such as 𝑟, ℎ, or barrier length directly in the script to explore different configurations.
+
 ## Methodology
 The optimization process is done by using the octave software. To determine the best 
 combinations of r and h, the value of r is first fixed at a constant value. The enclosed land 
